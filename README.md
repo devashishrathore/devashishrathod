@@ -1,11 +1,12 @@
+![MasterHead](https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif)
 <h1 align="center">Hi 👋, I'm Devashish Rathore</h1>
 <h3 align="center">A passionate Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/g06HKnMmtK1aXurndU/200w.webp?cid=ecf05e4785ca77783ef93be7cb51e070ff036bafed9c6a48&rid=200w.webp&ct=g">
 
 <p align="left"> <a href="https://twitter.com/devashish_1234" target="blank"><img src="https://img.shields.io/twitter/follow/devashish_1234?logo=twitter&style=for-the-badge" alt="devashish_1234" /></a> </p>
 
-- 🔭 I’m currently working on **API's Development, JavaScript, Nodejs, MongoDB, Redis and AWS-S3**
 
-- 💬 Ask me about **JavaScript, Web Development, Backend Work**
+- 💬 Ask me about **JavaScript, Nodejs, Backend Work**
 
 - 📫 How to reach me **devrathod96445@gmail.com**
 
