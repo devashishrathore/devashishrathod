@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **JavaScript, Nodejs, Backend Work**
 
-- 📫 How to reach me **devrathod96445@gmail.com**
+- 📫 How to reach me **rathod.devashish09@gmail.com**
 
 - ⚡ Fun fact **My name Dev is absolutely tends to Dev(developer)😉**
 
